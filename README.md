@@ -101,9 +101,13 @@ We need to design a struct-based, ***visual data-oriented*** \
 "State Machine/Behaviour Tree/HTN/GOAP/Planner/**Flow Graph**" hybrid that works with **Jobs**!
 
 The idea is to separate Design from Code, provide visual debugging and runtime graph editing (in Editor and Player builds!).\
-In the same fashion as Ecstasy — simple stupid and powerful.
+In the same fashion as Ecstasy — simple stupid and powerful.\
+Here's a concept mockup:
+![image](https://user-images.githubusercontent.com/29812914/174079744-697efd9f-c80a-443d-bbf9-1af160cce264.png)
+
 
 ## Community
+More info and discussions on our server\
 [![join discord](https://user-images.githubusercontent.com/29812914/121816656-0cb93080-cca7-11eb-954a-344cfd31f530.png)](https://discord.gg/uF3sJFMA2j)
 
 ## TODO
